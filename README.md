@@ -7,7 +7,7 @@ Azure Cloud Disaster Recovery Configuration Activity
 
 **Scenario**
 
-Assume that you are working as Azure cloud Information Security Officer in maintaining client’s data and servers running. 
+as Azure cloud Information Security Officer in maintaining client’s data and servers running. 
 
 **Requirements**
 
@@ -24,11 +24,3 @@ Then perform a Test Failover for the windows server.
 The test failover process should start. 
 
 You should see a replicated copy of the windows server and run it, copy the public IP address and test it from your browser.  
-
-Make a clear documentation of this with clear explanations and attach screenshots of each step. 
-
-Please use a word document for this and screenshots inserted as pictures. 
-
-As always save your work with your name and women techsters email. 
-
-All the best. 
